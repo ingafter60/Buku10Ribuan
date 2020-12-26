@@ -43,9 +43,15 @@ https://github.com/ingafter60/Buku10Ribuan
         modified:   core/settings.py
 
 
+### Ch01 - 4. Settings 
 
-
-
+        > Install postgres driver
+        >>  pipenv install psycopg2
+        > Import os in settings 
+        modified:   Pipfile
+        modified:   Pipfile.lock
+        modified:   README.md
+        modified:   core/settings.py
 
 
 
