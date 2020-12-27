@@ -66,10 +66,15 @@ https://github.com/ingafter60/Buku10Ribuan
         modified:   core/urls.py
 
 
+### Ch02 - 2. Adding an About Us Page, navigation and links
 
-
-
-
+        modified:   .gitignore
+        modified:   README.md
+        new file:   appmain/templates/about_us.html
+        new file:   appmain/templates/base.html
+        modified:   appmain/templates/home.html
+        new file:   appmain/urls.py
+        modified:   core/urls.py
 
 
 
