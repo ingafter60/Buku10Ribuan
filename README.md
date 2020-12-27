@@ -53,9 +53,17 @@ https://github.com/ingafter60/Buku10Ribuan
         modified:   README.md
         modified:   core/settings.py
 
+## CHAPTER 2 Getting Started with a Simple Company Site
 
+### Ch02 - 1. Starting with the Homepage
 
-
+        modified:   README.md
+        new file:   appmain/static/css/bootstrap.min.css
+        new file:   appmain/static/js/bootstrap.min.js
+        new file:   appmain/static/js/jquery.min.js
+        new file:   appmain/static/js/popper.min.js
+        new file:   appmain/templates/home.html
+        modified:   core/urls.py
 
 
 
