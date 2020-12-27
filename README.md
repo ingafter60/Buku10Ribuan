@@ -98,8 +98,10 @@ https://github.com/ingafter60/Buku10Ribuan
         modified:   appmain/views.py
 
 
+### Ch02 - 6. Form Rendering
 
-
+        modified:   README.md
+        modified:   appmain/templates/contact_form.html
 
 
 
