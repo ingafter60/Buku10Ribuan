@@ -88,7 +88,14 @@ https://github.com/ingafter60/Buku10Ribuan
         modified:   core/settings.py
 
 
+### Ch02 - 5. Adding the Form to the Contact Us Page
 
+        modified:   README.md
+        modified:   appmain/forms.py
+        modified:   appmain/templates/base.html
+        new file:   appmain/templates/contact_form.html
+        modified:   appmain/urls.py
+        modified:   appmain/views.py
 
 
 
