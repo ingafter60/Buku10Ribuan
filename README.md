@@ -82,9 +82,10 @@ https://github.com/ingafter60/Buku10Ribuan
         new file:   appmain/forms.py
 
 
+### Ch02 - 4. Sending E-mails
 
-
-
+        modified:   README.md
+        modified:   core/settings.py
 
 
 
